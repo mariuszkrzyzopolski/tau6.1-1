@@ -2,6 +2,7 @@ package com.example.demo;
 
 import java.util.Collection;
 
+
 public class NotesServiceImpl implements NotesService {
 
     public static NotesServiceImpl createWith(final NotesStorage storageService) {
